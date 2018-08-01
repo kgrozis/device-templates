@@ -1,0 +1,5 @@
+---
+node:
+  oob:
+    re0_address: 192.168.56.3
+    re0_mask: 24
